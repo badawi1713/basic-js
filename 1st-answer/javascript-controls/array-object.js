@@ -1,7 +1,7 @@
-// [] ini si array
+// [] tipe data array
 // [ value, value, value ]
 
-// {} ini si object
+// {} tipe data object
 // { key: value, key: value }
 
 const dataArray = [1, 2, 'tiga', 'empat']
@@ -19,7 +19,7 @@ console.log(dataArray.slice(1, 3))
 dataArray.push('lima');
 console.log(dataArray);
 
-// length
+// length: menentukan panjang isi sebuah array
 console.log(dataArray.length)
 
 // i++ || i = i + 1

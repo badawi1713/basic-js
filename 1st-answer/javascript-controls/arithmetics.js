@@ -1,6 +1,6 @@
 // Menggunakan operator matematika sebagai proses untuk melakukan perhitungan
 const a = 10;
-const b = 20;
+const b = 2;
 
 // Penjumlahan
 console.log('Penjumlahan (a+b) =', a + b);

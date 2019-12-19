@@ -3,7 +3,7 @@
 // atau jika ada 3 meja, saya minta 6 kursi
 // jika tidak ada 1 meja atau 3 meja, saya minta 100 kursi
 
-const meja = 1;
+const meja = 2;
 let kursi = 1;
 
 switch (meja) {

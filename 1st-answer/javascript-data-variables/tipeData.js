@@ -24,3 +24,9 @@ console.log(Person.fullName + ', ' + Person.age);
 // Array []
 const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'orange', 'black', 'white'];
 console.log('My favorite colors are', colors[0] + ' and ' + colors['3'])
+
+// Array-Object [{}]
+const Car = [{"merk":"Honda", "color":"red"}, {"merk":"Toyota", "color":"black"}, {"merk":"Subaru", "color":"blue"}];
+console.log('First car:', Car[0]);
+console.log('Second car:', Car[1]);
+console.log('Third car:', Car[2]);

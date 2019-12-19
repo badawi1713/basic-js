@@ -1,5 +1,5 @@
 // json.parse to meparsekan json || string dijadikan json
-// json.stringify to men-unparserkan json || json dijadikank string
+// json.stringify to men-unparserkan json || json dijadikan string
 
 const data = '{ "motor": "biru", "mobil": "kuning", "pesawat": 10 }'
 

@@ -1,4 +1,15 @@
 // 3a. Buatlah perulangan dengan pola segitiga berikut:
+// *********
+// ********
+// *******
+// ******
+// *****
+// ****
+// ***
+// **
+// *
+// 
+// Jawaban:
 for (let baris = 10; baris > 0; baris--) {
     let total = '';
     for (let kolom = 1; kolom < baris; kolom++) {
@@ -10,7 +21,14 @@ for (let baris = 10; baris > 0; baris--) {
 
 
 // 3b. Buatlah perulangan dengan pola segitiga berikut:
-var star = 5;
+//      *
+//     ***
+//    *****
+//   *******
+//  *********
+// 
+// Jawaban:
+ var star = 5;
 for(i=1 ;i<=star;i++) {
 
     let str = ' '.repeat(star-i);
